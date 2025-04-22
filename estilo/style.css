@@ -89,7 +89,7 @@ nav > ul > li > a {
     transition-duration: 0.25s;
 }
 
-nav > a:hover {
+nav > ul > li > a:hover {
     background-color: var(--cor3);
     color: var(--cor5);
 }
